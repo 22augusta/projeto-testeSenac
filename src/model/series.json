@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "title":"Arrow",
+        "launchYear":"2012",
+        "season" :8,
+        "present" : false
+    },
+    {
+        "id":2,
+        "title":"The Flash",
+        "launchYear":"2014",
+        "season" :8,
+        "present" : true
+        },
+    {
+        "id":3,
+        "title":"Supergirl",
+        "launchYear":"2015",
+        "season" :6,
+        "present" : false
+    },
+    {
+        "id":4,
+        "title":"Legends Of Tomorrow",
+        "launchYear":"2016",
+        "season" :7,
+        "present" : true
+    },
+    {
+        "id":5,
+        "title":"Constantine",
+        "launchYear":"2014",
+        "season" :1,
+        "present" : false
+    },
+    {
+        "Id":6,
+        "title":"Titans",
+        "launchYear":"2018",
+        "season" :3,
+        "present" : true
+    },
+    {
+        "id":7,
+        "title":"Batwoman",
+        "launchYear":"2019",
+        "season" :3,
+        "present" : true
+    },
+    {
+        "id":8,
+        "title":"Black Lightning",
+        "launchYear":"2018",
+        "season" : 4,
+        "present" : false
+    },
+    {
+        "id":9,
+        "title":"Superman & Lois",
+        "launchYear":"2021",
+        "season" : 2,
+        "present" : true
+    },
+    {
+        "id":10,
+        "title": "Stargirl",
+        "launchYear":"2020",
+        "season" :2,
+        "present" : true
+    }
+]

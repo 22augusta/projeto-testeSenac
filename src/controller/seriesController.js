@@ -1,9 +1,12 @@
-const series = require("../model/series.json");
+const series = require("../models/series.json");
 
-const getAll = (req, res) => {
+const getAllSeries = (req, res) => {
     console.log(req.url);
     
-    res.send(series);
+    res.status(200).send(series);
 };
 
-module.exports = {getAll};
+module.exports = {
+    getAllSeries,
+    
+};
